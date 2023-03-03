@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403923409806",
+    "project_id": "catguide-67318",
+    "storage_bucket": "catguide-67318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403923409806:android:1630f3f34801172e59e2df",
+        "android_client_info": {
+          "package_name": "com.example.catguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403923409806-qoql54ddbqnql0nl85cuh222h2r2s265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8u_tnF0A52IVE-pdVrcRn0t21QV8kWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403923409806-qoql54ddbqnql0nl85cuh222h2r2s265.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
