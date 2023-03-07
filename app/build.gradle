@@ -64,6 +64,9 @@ dependencies {
     //firebase stroage
     implementation 'com.google.firebase:firebase-storage:20.1.0'
 
+    //firebase database
+    implementation 'com.google.firebase:firebase-database-ktx:20.1.0'
+
     //firebase&Navigation
     implementation("androidx.navigation:navigation-fragment-ktx:2.5.3")
     implementation("androidx.navigation:navigation-ui-ktx:2.5.3")
